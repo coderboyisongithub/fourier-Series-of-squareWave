@@ -1,7 +1,7 @@
 function [t,y] = squareWave(freq,A,waveTime)
-%UNTITLED7 Summary of this function goes here
-%   Detailed explanation goes here
-%
+%This function generates square Wave of frequency 'freq' amplitude 'A' and of duration 'waveTime'
+%written By Shivanshu Raj
+% student of Computer Science and Eng. SRM University,Amravati,
 
 
 
